@@ -1,0 +1,91 @@
+* {
+    font-family: 'Century Ghotic', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+input {
+    display: block;
+    /* margin-top:40px; */
+    padding: 10px;
+    width: 380px;
+    height: 20px;
+    border-radius: 15px 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(139, 96, 231, 1);
+    text-align: left;
+}
+#form button{
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(139, 96, 231, 1);
+    border-radius: 15px 15px;
+    width: 165px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+form {
+    left: 10px;
+    width: 400px;
+    background-color: white;
+    margin-left: 38%;
+    border-style: solid;
+    border-radius: 20px 20px;
+    border-color: rgba(139, 96, 231, 1);
+    border-width: 1px;
+    padding: 10px;
+    padding-left: 8px;
+}
+
+button {
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(139, 96, 231, 1);
+    border-radius: 15px 15px;
+    width: 91px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+p {
+    width: 394px;
+    /* font-size:14px; */
+    margin-right: 250px;
+}
+
+.msg {
+    font-size: 20px;
+    margin-left: -250px;
+}
+
+#form #a #gg {
+    text-decoration: none;
+    color: black;
+}
+
+#editing textarea {
+    width: 360px;
+    height: 150px;
+}
+
+#aut a {
+    text-decoration: none;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(139, 96, 231, 1);
+    border-radius: 15px 15px;
+    width: 397px;
+    /* margin-top:20px; */
+    padding: 10.5px;
+    color: black;
+}
+#des{
+    height: 50px;
+    width: 399px;
+}
